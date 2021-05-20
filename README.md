@@ -1,0 +1,1 @@
+# ShannonF--Hamming-XOR-encoding
